@@ -1,3 +1,3 @@
 # IlluminationBall
-光る球をゴールへと転がすゲーム
+Game to roll a glowing ball. <br>
 iOS版で作りたい
