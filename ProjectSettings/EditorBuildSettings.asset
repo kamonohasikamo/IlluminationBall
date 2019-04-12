@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/illumination.unity
+    guid: 080e7905358adf54b879eafbab1bd011
   m_configObjects: {}
