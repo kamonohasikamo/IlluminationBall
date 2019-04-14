@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\GravityController.cs" />
+     <Compile Include="Assets\Script\HallController.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/cs16048/Documents/Unity/IlluminationBall/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
